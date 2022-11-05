@@ -33,3 +33,7 @@ Following the [Langium getting started](https://langium.org/docs/getting-started
 npm i -g yo generator-langium
 ```
 Then run the generator and select defaults to create a `hello-world` project - open this as a 'folder' in gitpod IDE.
+
+Details on the langium project that this creates all documented here:
+
+[hello-world/langium-quickstart.md](hello-world/langium-quickstart.md)
