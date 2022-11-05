@@ -1,6 +1,8 @@
 # langium-hello-world
 DSL hello world example using Langium running on GitPod
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#<your-repository-url>)
+
 ## Getting started with node and gitpod
 
 Following this article to get started with node.js:
