@@ -28,6 +28,6 @@ https://www.gitpod.io/docs/configure/workspaces/workspace-image
 
 Following the [Langium getting started](https://langium.org/docs/getting-started/) documentation, first thing we do is add the following to the gitpod docker file 
 ```
-install Yeoman and Langium scaffold
+npm i -g yo generator-langium
 ```
 
