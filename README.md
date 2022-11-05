@@ -17,6 +17,10 @@ https://www.gitpod.io/blog/node-js-development
 See the following article:
 https://www.octobot.io/blog/running-yeoman-in-a-development-instance-in-docker/
 
-To use the dockerfile for development and avoid running command as root (and so
-hitting permission problems) we create a non-root user.
+HOWEVER gitpod takes care of this for you.. so solution is to follow the
+gitpod instructions and setup a `.gitpod.Dockerfile`
+
+https://www.gitpod.io/docs/configure/workspaces/workspace-image
+
+
 
